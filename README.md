@@ -34,6 +34,9 @@ npm start
 or
 yarn start
 
+
+I also deployed it on Netlify
+link:https://speechtotextconverter007.netlify.app/
 Open your web browser and go to http://localhost:3000 to view the application.
 Usage
 Select the currency you want to convert from in the first dropdown.
